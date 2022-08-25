@@ -84,3 +84,39 @@ box-shadow: 5px 3px 5px  rgb(138, 127, 127);
     display: grid;
     grid-template-columns:max-content;
 }
+
+@media screen and (max-width: 768px){
+   .nav-item{
+        display:none;
+    }
+
+    
+
+.nav-text{
+    display: grid;
+    grid-template-columns: auto;
+   
+    
+}
+
+
+
+.middle-part{
+    display: grid;
+    grid-template-columns: auto;}
+   
+
+.header-text{
+    margin-left: 60px;
+}
+
+
+
+.blog-cards{
+    display: grid;
+    grid-template-columns: auto ;
+    gap: 50px;
+    margin-left: 100px;
+}
+
+}

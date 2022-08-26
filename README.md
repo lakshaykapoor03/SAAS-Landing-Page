@@ -1,7 +1,7 @@
  
 # PROJECT NAME- SAAS-Landing-Page
 
-### This project is showing a web page of a restaurant and is made using HTML and CSS.
+### This project is showing a SAAS landing webpage and is made using HTML and CSS.
 ### Learnings
 I learned about flexbox property in which i learned about gap as well as flex-wrap property of CSS.
 
